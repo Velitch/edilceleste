@@ -1,7 +1,13 @@
 .cid-txKlOWEnce {
   background-image: url("../../../assets/images/1.webp");
 }
-
+.cid-txKlOWEnce .mbr-text,
+.cid-txKlOWEnce .mbr-section-btn {
+  text-align: right;
+}
+.cid-txKlOWEnce .mbr-section-title {
+  text-align: right;
+}
 body {
   font-family: Jost;
 }
