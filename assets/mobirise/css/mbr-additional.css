@@ -2,6 +2,14 @@
   font-family: 'KaeliaBold';
   src: url('assents/fonts/KaeliaBold.ttf');
 }
+@font-face {
+  font-family: 'KaeliaSemibold';
+  src: url('assents/fonts/KaeliaSemibold.ttf');
+}
+@font-face {
+  font-family: 'KaeliaRegular';
+  src: url('assents/fonts/KaeliaRegular.ttf');
+}
 body {
   font-family: Jost;
 }
@@ -22,7 +30,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Kaelia Semibold';
+  font-family: 'KaeliaSemibold';
   font-size: 1.4rem;
   line-height: 1.5;
 }
