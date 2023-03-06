@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'KaeliaBold';
+  src: url('assents/fonts//KaeliaBold.ttf');
+}
 body {
   font-family: Jost;
 }
@@ -18,7 +22,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'KaeliaSemibold';
+  font-family: 'Kaelia Semibold';
   font-size: 1.4rem;
   line-height: 1.5;
 }
