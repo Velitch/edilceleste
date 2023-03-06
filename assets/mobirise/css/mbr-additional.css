@@ -12,7 +12,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'KaeliaBold';
+  font-family: 'Roboto';
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -20,7 +20,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -28,7 +28,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'KaeliaSemibold';
+  font-family: 'Roboto';
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -36,7 +36,7 @@ body {
   font-size: 1.75rem;
 }
 .display-5 {
-  font-family: 'KaeliaBold';
+  font-family: 'Roboto';
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -44,7 +44,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'KaeliaSemibold';
+  font-family: 'Roboto';
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -596,7 +596,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'KaeliaSemibold';
+  font-family: 'Roboto';
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
@@ -610,7 +610,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'KaeliaSemibold';
+  font-family: 'Roboto';
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
