@@ -1,18 +1,6 @@
 .cid-txKlOWEnce {
   background-image: url("../../../assets/images/1.webp");
 }
-@font-face {
-  font-family: 'KaeliaBold';
-  src: url('assets/fonts/KaeliaBold.ttf');
-}
-@font-face {
-  font-family: 'KaeliaSemibold';
-  src: url('assets/fonts/KaeliaSemibold.ttf');
-}
-@font-face {
-  font-family: 'KaeliaRegular';
-  src: url('assets/fonts/KaeliaRegular.ttf');
-}
 body {
   font-family: Jost;
 }
@@ -697,6 +685,16 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-txKlOWEnce {
+  background-image: url("../../../assets/images/9577124817-cdc448d209-k-2000x1333.jpg");
+}
+.cid-txKlOWEnce .mbr-text,
+.cid-txKlOWEnce .mbr-section-btn {
+  text-align: right;
+}
+.cid-txKlOWEnce .mbr-section-title {
+  text-align: right;
+}
 .cid-txGyP2nDKD {
   z-index: 1000;
   width: 100%;
@@ -1056,12 +1054,6 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
-}
-.cid-txGDm8BLQL {
-  background-color: #36a9e1;
-}
-.cid-txGDm8BLQL H3 {
-  text-align: center;
 }
 .cid-txGz2pLMVf {
   padding-top: 2rem;
