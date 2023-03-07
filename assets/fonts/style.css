@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'KaeliaBold';
+   font-display: swap;
+   src: url('KaeliaBold/font.ttf');
+}
+@font-face {
+   font-family: 'KaeliaSemibold';
+   font-display: swap;
+   src: url('KaeliaSemibold/font.ttf');
+}
