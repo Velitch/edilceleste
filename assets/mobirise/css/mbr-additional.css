@@ -1,18 +1,8 @@
-.cid-txKlOWEnce {
-  background-image: url("../../../assets/images/ombre.gif");
-}
-.cid-txKlOWEnce .mbr-text,
-.cid-txKlOWEnce .mbr-section-btn {
-  text-align: center;
-}
-.cid-txKlOWEnce .mbr-section-title {
-  text-align: center;
-}
 body {
-  font-family: Roboto;
+  font-family: Jost;
 }
 .display-1 {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -20,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Kanit', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -28,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -36,7 +26,7 @@ body {
   font-size: 1.75rem;
 }
 .display-5 {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -44,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -596,7 +586,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
@@ -610,7 +600,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Roboto';
+  font-family: 'Kanit', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
@@ -691,9 +681,6 @@ body {
 }
 a {
   transition: color 0.6s;
-}
-.cid-txKlOWEnce {
-  background-image: url("../../../assets/images/9577124817-cdc448d209-k-2000x1333.jpg");
 }
 .cid-txKlOWEnce .mbr-text,
 .cid-txKlOWEnce .mbr-section-btn {
