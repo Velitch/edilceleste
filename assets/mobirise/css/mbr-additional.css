@@ -1,6 +1,3 @@
-.cid-txKlOWEnce {
-  background-image: url("files/images/1.webp");
-
 body {
   font-family: Jost;
 }
@@ -684,6 +681,9 @@ body {
 }
 a {
   transition: color 0.6s;
+}
+.cid-txKlOWEnce {
+  background-image: url("../../../files/images/33.gif");
 }
 .cid-txKlOWEnce .mbr-text,
 .cid-txKlOWEnce .mbr-section-btn {
