@@ -785,7 +785,7 @@ a {
   }
 }
 .cid-txGyP2nDKD .iconfont-wrapper {
-  color: #ffffff !important;
+  color: #000000 !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1001,7 +1001,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #1a2033;
+  background-color: #ffffff;
 }
 .cid-txGyP2nDKD button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
